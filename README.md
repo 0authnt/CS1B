@@ -14,9 +14,9 @@ As a CS student, the goal of this lab was to demonstrate correct use of dynamic 
 - output() - Prints the contents of the array in a bracketed format.
 
 # Big Three (For Dynamic Memory)
--Copy Constructor - _Deep_ copies the source list
--Overloaded assignment operator - handles self-assignment, deletes old memory, then makes a copy.
--Destructor - Frees allocated memory and nulls the pointer
+-  Copy Constructor - _Deep_ copies the source list
+-  Overloaded assignment operator - handles self-assignment, deletes old memory, then makes a copy.
+-  Destructor - Frees allocated memory and nulls the pointer
 
 # Included Test Programs
 - Lab5_ListTest tests all functionality, validates duplicate handling, removal, deep copy behavior, stackable assignment and destructor correctness. Provided by Dr. Mikhail Nesterenko.
